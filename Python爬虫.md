@@ -53,8 +53,6 @@ jupyter
 3. 请求头    Request Headers
 4. 请求体（POST需要 Form Data表单数据）
 
-![1542254433793](C:\Users\谢泽宇\AppData\Roaming\Typora\typora-user-images\1542254433793.png)
-
 ### Response包含：
 
 1.响应状态    Status Code
@@ -62,8 +60,6 @@ jupyter
 2.响应头        Response Headers
 
 3.响应体
-
-![1542254583710](C:\Users\谢泽宇\AppData\Roaming\Typora\typora-user-images\1542254583710.png)
 
 ## 爬虫能抓取啥数据？
 
